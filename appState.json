@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "0117e464-f418-4205-93ba-fe98d3009cf9": {
+        "id": "0117e464-f418-4205-93ba-fe98d3009cf9",
+        "parent": null,
+        "name": "ktryindunscenario.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "ktryindunscenario.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs14.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "ktryindunscenario"
+        },
+        "triggers": [],
+        "lastUpdated": 1626156338990
+      }
+    },
+    "openFiles": [
+      "0117e464-f418-4205-93ba-fe98d3009cf9"
+    ],
+    "currentFileId": "0117e464-f418-4205-93ba-fe98d3009cf9",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.9.1",
+    "projectName": "ktryindunscenario",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1626156352448
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "ktryindunscenario",
+      "url": "https://github.com/Kumudikatest/ktryindunscenario"
+    }
+  }
+}
